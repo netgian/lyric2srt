@@ -25,7 +25,7 @@ python script.py <track> <artist> [--album <album>] [--duration <duration>]
 ### Example:
 
 ```bash
-python script.py "Shape of You" "Ed Sheeran" --album "Divide" --duration 233
+python lyrics.py "Shape of You" "Ed Sheeran" --album "Divide" --duration 233
 ```
 
 This command will fetch the synchronized lyrics of the song and save them in a `lyrics.srt` file.
