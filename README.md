@@ -19,7 +19,7 @@ pip install -r requests
 The script can be run from the command line with the following arguments:
 
 ```bash
-python script.py <track> <artist> [--album <album>] [--duration <duration>]
+python lyrics.py <track> <artist> [--album <album>] [--duration <duration>]
 ```
 
 ### Example:
