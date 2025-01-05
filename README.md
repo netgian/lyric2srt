@@ -20,13 +20,13 @@ pip install -r requests
 The script can be run from the command line with the following arguments:
 
 ```bash
-python lyrics.py <track> <artist> [--album <album>] [--duration <duration>]
+python lyric2srt.py <track> <artist> [--album <album>] [--duration <duration>]
 ```
 
 ### Example:
 
 ```bash
-python lyrics.py "Shape of You" "Ed Sheeran" --album "Divide" --duration 233
+python lyric2srt.py "Shape of You" "Ed Sheeran" --album "Divide" --duration 233
 ```
 
 This command will fetch the synchronized lyrics of the song and save them in a `lyrics.srt` file.
