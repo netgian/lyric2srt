@@ -1,7 +1,7 @@
 
 # lyric2srt
 
-`lyric2srt` is a Python script that converts synchronized lyrics (in timestamp format) to SRT files, the standard format used for subtitles. This project also includes functionality to fetch synchronized lyrics from the [lrclib.net](https://lrclib.net) API.
+`lyric2srt` is a Python script that converts synchronized lyrics (in timestamp format) to SRT files, the standard format used for subtitles. This project is possible thanks to the functionality to fetch synchronized lyrics from the [lrclib.net](https://lrclib.net) API.
 
 ## Requirements
 
