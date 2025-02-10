@@ -12,7 +12,7 @@ This project was made possible thanks to the [lrclib.net](https://lrclib.net) AP
 
 Install requests by running:
 ```bash
-pip install -r requests
+pip install requests
 ```
 
 ## Usage
